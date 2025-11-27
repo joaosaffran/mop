@@ -1,7 +1,7 @@
 # Mob
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" alt="Mop cleaning up your messy code" width="300"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTg5OWVtaGdrZnViNmFvZmY1eDY0cnV5dWM4M3JtaHgyOGNueWk0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ycgu8T02kbOta/giphy.gif" alt="Mop cleaning up your messy code" width="300"/>
   <br>
   <em>Cleaning up your messy commits</em>
 </p>
